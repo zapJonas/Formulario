@@ -1,1 +1,1 @@
-Uma tela de logib bem simples
+Uma tela de login bem simples
